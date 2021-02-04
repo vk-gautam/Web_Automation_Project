@@ -6,6 +6,8 @@
 # send_keys() function is used to send the values to the element
 # click() function is used to click any button
 
+## THIS CODE WILL LOGIN TO FACEBOOK ACCOUNT AND LET YOU POST THE CONTENT ##
+
 import time
 from selenium import webdriver
 
